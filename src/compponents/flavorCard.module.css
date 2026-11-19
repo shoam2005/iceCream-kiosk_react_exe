@@ -1,0 +1,26 @@
+.card{
+    height: 70px;;
+    width:70px;
+    border:solid,black,1px;
+    padding: 10px;
+    margin:auto;
+    color:black;
+    margin-bottom: 10px;
+}
+.soldout{
+    height:90px;
+    width:70px;
+    border:solid,black,1px;
+    padding: 10px;
+    margin:auto ;
+    color:black;
+    margin-bottom: 10px;
+    background-color: lightgrey;
+    font-weight: bold;
+}
+.button{
+    margin-right:  5px ;
+    border-radius: 50%;
+    border:0px,solid,black;
+    
+}
