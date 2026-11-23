@@ -1,0 +1,19 @@
+.notice {
+  padding: 10px 14px;
+  margin: 10px 0;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  font-weight: 500;
+}
+
+.yellow {
+  background-color: #fff8db;
+  border-color: #f59e0b;
+  color: #78350f;
+}
+
+.red {
+  background-color: #fde8e8;
+  border-color: #ef4444;
+  color: #7f1d1d;
+}
